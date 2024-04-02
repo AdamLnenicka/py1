@@ -12,7 +12,7 @@ I've recently joined an e-commerce company as a software engineer, tasked with d
 - Tested, packaged, and deployed the application using Flask for web hosting.
 - Ensured robustness by incorporating error handling mechanisms to manage invalid inputs.
 - Wrote code in strict adherence to PEP8 guidelines, achieving a flawless 10/10 score in static code analysis.
-- Comprehensive documentation including step-by-step screenshots for each development phase.
+- Step-by-step screenshots for each development phase.
 
 ### About Emotion Detection:
 In this project, I utilized Watson AI libraries to build an emotion detection system. Unlike traditional sentiment analysis, which typically focuses on polarity (positive, negative, neutral), emotion detection delves deeper into nuanced emotions such as joy, sadness, and anger. This makes it a vital tool for businesses employing AI-driven recommendation systems, automated chatbots, and more.
