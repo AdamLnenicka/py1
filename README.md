@@ -17,7 +17,6 @@ I've recently joined an e-commerce company as a software engineer, tasked with d
 ### About Emotion Detection:
 In this project, I utilized Watson AI libraries to build an emotion detection system. Unlike traditional sentiment analysis, which typically focuses on polarity (positive, negative, neutral), emotion detection delves deeper into nuanced emotions such as joy, sadness, and anger. This makes it a vital tool for businesses employing AI-driven recommendation systems, automated chatbots, and more.
 
-One of my projects while working on IBM DevOps and Software Engineering Professional Certificate
-
 --- 
 
+One of my projects while working on IBM DevOps and Software Engineering Professional Certificate
