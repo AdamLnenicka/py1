@@ -19,4 +19,3 @@ In this project, I utilized Watson AI libraries to build an emotion detection sy
 
 --- 
 
-One of my projects while working on IBM DevOps and Software Engineering Professional Certificate
